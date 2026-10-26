@@ -347,7 +347,7 @@ export default function PortfolioPage() {
                   <span>LinkedIn</span>
                   <ArrowRight size={14} strokeWidth={1.9} />
                 </a>
-                <a href="mailto:rijankanxo111@gmail.com">
+                <a href="mailto:contact@rijan-poudel.com.np">
                   <Mail size={14} strokeWidth={1.9} />
                   <span>Email</span>
                   <ArrowRight size={14} strokeWidth={1.9} />
@@ -616,9 +616,9 @@ export default function PortfolioPage() {
                   Based in Chitwan, Nepal. Usually replies within 24 hours.
                 </p>
                 <div className="c-links">
-                  <a className="c-link" href="mailto:rijankanxo111@gmail.com">
+                  <a className="c-link" href="mailto:contact@rijan-poudel.com.np">
                     <Mail size={14} strokeWidth={1.9} />
-                    <span>rijankanxo111@gmail.com</span>
+                    <span>contact@rijan-poudel.com.np</span>
                     <small>
                       Email <ArrowRight size={12} strokeWidth={1.9} />
                     </small>
@@ -739,7 +739,7 @@ export default function PortfolioPage() {
               >
                 LinkedIn
               </a>
-              <a href="mailto:rijankanxo111@gmail.com">Email</a>
+              <a href="mailto:contact@rijan-poudel.com.np">Email</a>
             </div>
           </div>
         </footer>

@@ -38,4 +38,4 @@ Right now I am growing through real projects, open-source contributions, and con
 
 - GitHub: [github.com/rijan-poudel](https://github.com/rijan-poudel)
 - LinkedIn: [linkedin.com/in/rijan-poudel-708254269](https://linkedin.com/in/rijan-poudel-708254269)
-- Email: [rijankanxo111@gmail.com](mailto:rijankanxo111@gmail.com)
+- Email: [contact@rijan-poudel.com.np](mailto:contact@rijan-poudel.com.np)
