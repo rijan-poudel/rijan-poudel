@@ -108,6 +108,7 @@ const prefersReducedMotion=window.matchMedia('(prefers-reduced-motion: reduce)')
   document.addEventListener('visibilitychange',()=>{running=!document.hidden;});
 })();
 
+
 /* â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
    HERO LOAD + COUNTER
 â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â• */
@@ -329,7 +330,7 @@ const NepaliBank = {
     title:'Minnano Education',
     cat:'Visual Identity - Branding - Client Work',
     chips:['Branding','Figma','Social Media','Photoshop','Visual Identity'],
-    link:'mailto:rijankanxo111@gmail.com',
+    link:'mailto:contact@rijan-poudel.com.np',
     svgType:'brand',
     problem:'Minnano Education Pvt. Ltd. needed a consistent visual identity for their social media. Their posts were inconsistent - different fonts, colors, and styles across platforms. No recognition, no trust.',
     role:'Lead designer. Created the full social media design system - color palette, typography rules, template library, and visual guidelines.',
@@ -346,7 +347,7 @@ const NepaliBank = {
     title:'SACCO Promotional Design',
     cat:'Print Design - Nepal',
     chips:['Print Design','Photoshop','Brochure','Promotional'],
-    link:'mailto:rijankanxo111@gmail.com',
+    link:'mailto:contact@rijan-poudel.com.np',
     svgType:'print',
     problem:'A savings cooperative (SACCO) needed promotional materials - brochures, flyers, and posters - to communicate their services to a local, mostly non-digital audience. Print-first, trust-first.',
     role:'Designer. Created all print collateral - brochures, A4 flyers, and social media adaptations.',
@@ -363,7 +364,7 @@ const NepaliBank = {
     title:'Consultancy Branding',
     cat:'Identity Design - Visiting Cards - Collateral',
     chips:['Logo Design','Visiting Cards','Brand Identity','Illustrator'],
-    link:'mailto:rijankanxo111@gmail.com',
+    link:'mailto:contact@rijan-poudel.com.np',
     svgType:'card',
     problem:'A local businessman needed a complete brand identity from scratch - logo, visiting cards, and document templates. Nothing existed. First impression was everything.',
     role:'Brand designer. Delivered logo, color system, typography, visiting cards, and a basic brand guide.',
@@ -1062,4 +1063,3 @@ document.addEventListener('keydown',e=>{if(e.key==='Escape')closeModal();});
     }
   },{passive:true});
 })();
-

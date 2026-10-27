@@ -22,7 +22,7 @@ function buildContactScript(accessKey: string) {
       }
 
       function fallbackToMailto(name, email, subject, message) {
-        const mailto = "mailto:rijankanxo111@gmail.com"
+        const mailto = "mailto:contact@rijan-poudel.com.np"
           + "?subject=" + encodeURIComponent(subject)
           + "&body=" + encodeURIComponent(
               "Hi Rijan,\\n\\n"
@@ -65,6 +65,7 @@ function buildContactScript(accessKey: string) {
             },
             body: JSON.stringify({
               access_key: web3FormsAccessKey,
+              to: 'contact@rijan-poudel.com.np',
               name,
               email,
               subject: brandedSubject,
